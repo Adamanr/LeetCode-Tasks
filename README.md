@@ -1,2 +1,3 @@
 # LeetCode
-LeetCode Problems
+Выполненные задания с сайта https://leetcode.com/
+Completed tasks from the site https://leetcode.com/
